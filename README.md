@@ -3,8 +3,7 @@ asmOptiboot - small size ARDUINO UNO / ATmega328 bootloader with EEPROM, FUSE an
 based on Optiboot (https://githib.com/Optiboot/optiboot)
 
 fits into 256 words of FLASH
-     ( minimum size: 390 bytes/185 words)
-     ( maximum size: 502 bytes/251 words)
+     ( minimum size: 390 bytes/185 words, maximum size: 502 bytes/251 words)
 
 extended functions:
   - save MCUSR reset status in R2
