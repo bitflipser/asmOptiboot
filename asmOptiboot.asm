@@ -1,4 +1,3 @@
-
 ; ################################################################################ ;
 ;                                                                                  ;
 ; asmOptiboot - Optiboot rewrite in Assembler with many extras                     ; 
