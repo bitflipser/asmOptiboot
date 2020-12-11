@@ -25,4 +25,3 @@ The incremented addresses will be returned in R25:R24 and R23:R22 and can be use
 The following registers will be scrached and have to be saved before calling WRITE_PAGE_FLASH if they contain valid data
 
 - R0, R1, R19, R27:R26 (X), R31:R30 (Z)
-
